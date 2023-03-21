@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="080a6583-b2ab-4807-9b28-5aabca75f410" name="Changes" comment="">
+    <list default="true" id="080a6583-b2ab-4807-9b28-5aabca75f410" name="Changes" comment="first commit from intelij">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -20,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NKMsJiCiiszPaeEPT803MGjvql" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +45,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679408528792</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit from intelij">
+      <created>1679409855256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679409855256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit from intelij" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit from intelij" />
   </component>
 </project>
